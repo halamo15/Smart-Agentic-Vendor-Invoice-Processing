@@ -1,0 +1,6 @@
+{
+  "Name": "Smart-Agentic-Vendor-Invoice-Processing",
+  "ProjectType": "Process",
+  "Description": "Enterprise-grade REFramework Performer designed for automated invoice processing and agentic ERP posting. It pulls queued invoice transactions from UiPath Orchestrator, leverages LLM APIs for AI-driven sentiment and urgency routing, performs business rule validations, updates financial records, and dispatches automated exception notifications.",
+  "MainFile": "Main.xaml"
+}
