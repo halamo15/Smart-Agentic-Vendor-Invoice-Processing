@@ -1,0 +1,6 @@
+{
+  "Name": "Smart-Invoice-Dispatcher",
+  "ProjectType": "Process",
+  "Description": "dispatcher for smart agentic vendor invoises",
+  "MainFile": "Main.xaml"
+}
